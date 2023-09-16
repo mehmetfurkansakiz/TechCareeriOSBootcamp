@@ -1,0 +1,50 @@
+import UIKit
+
+//MARK: - Mehmet Furkan Sakız - Assigment 1
+
+var city : String = "Sakarya" // Şehir
+var country : String = "Turkey" // Ülke
+var phone: String = "05535627253" // Telefon
+var postalCode: String = "54000" // Posta Kodu
+var email: String = "mehmetfurkansakiz@email.com" // E-posta
+var occupation: String = "Bilgisayar Mühendisi" // Meslek
+var stockQuantity: Int = 1000 // Stok Miktarı
+let customerName: String = "Ümit Havare" // Müşteri Adı
+var balance: Double = 10000.0 // Bakiye
+let birthDate: String = "24/02/2001" // Doğum Günü
+var salary: Double = 50000.0 // Maaş
+var maritalStatus: String = "Bekar" // Medeni Durum
+var productReview: String = "Harika ürün!" // Ürün Yorumu
+let paymentDate: String = "04/09/2023" // Ödeme Tarihi
+var payment: Double = 50.0 // Ödeme
+var orderQuantity: Int = 5 // Sipariş Adeti
+let carModel: String = "Toyota Corolla" // Araba Modeli
+let bookTitle: String = "Muhteşem Gatsby" // Kitap Adı
+let publicationDate: String = "10/04/1925" // Yayınlanma Tarihi
+var discountAmount: Double = 10.0 // İndirim Miktarı
+let roomCount: Int = 3 // Oda Sayısı
+let latitude: Double = 40.7793 // Enlem
+let longitude: Double = 30.4013 // Boylam
+let productName: String = "Macbook Pro 2015" // Ürün Adı
+var mealPrice: Double = 15.99 // Yemek Fiyatı
+let brand: String = "Apple" // Marka
+let musicTitle: String = "Ben Ne Yangınlar Gördüm" // Müzik Adı
+let videoDuration: Int = 180 // Video Süresi
+var productRating: Double = 4.5 // Ürün Puanı
+var imageName: String = "ürün_resmi.jpg" // Resim Adı
+let fileFormat: String = "PDF" // Dosya Formatı
+var color: String = "Mavi" // Renk
+let colorCode: String = "#228B22" // Renk Kodu
+let phoneModel: String = "iPhone 13" // Telefon Modeli
+let screenSize: Double = 6.1 // Ekran Boyutu
+var weight: Double = 83.2 // Ağırlık
+let nationalDay: String = "29 Ekim Cumhuriyet Bayramı" // Ulusal Gün
+let holiday: String = "Yılbaşı" // Tatil Günü
+var reservationDate: String = "2023-10-15" // Rezervasyon Tarihi
+var streetName: String = "Ana Caddesi" // Sokak Adı
+let busRoute: String = "Otobüs Hattı - 04" // Otobüs Hattı
+var remainingMinutes: Int = 30 // Kalan Dakika
+let trackingCode: String = "ABC123DEFG" // Takip Kodu
+let couponExpiration: String = "03/09/23" // Kupon Son Kullanma Tarihi
+let couponCode: String = "IOSBOOTCAMP3EYLUL" // Kupon Kodu
+var billingAddress: String = "Hacıoğlu Mah. 1234 sokak" // Fatura Adresi
